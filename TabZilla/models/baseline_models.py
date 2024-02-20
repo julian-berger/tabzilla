@@ -237,3 +237,11 @@ class RandomForest(BaseModel):
 
     def get_classes(self):
         return self.model.classes_
+    
+
+
+
+
+
+
+    
